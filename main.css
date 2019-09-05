@@ -1,0 +1,58 @@
+body{
+    background-image: url(https://media.istockphoto.com/photos/concept-of-education-or-back-to-school-on-green-background-picture-id494617082?k=6&m=494617082&s=612x612&w=0&h=5GPK50lgZMHQCLqKu_llIOXglXO73i2JKdwHK5UPB80=);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.a{
+
+    font-family: sans-serif;
+    font-weight: 100;
+    text-align: center;
+    
+}
+form{
+   border: 2px solid black;
+   width: fit-content;
+   padding: 1cm;
+   text-align: center;
+   border-radius: 02%;
+   background-color: transparent;
+   margin: auto;
+   margin-top: 05em;
+   display: block;
+}
+.c{
+   text-align:left;
+    width: fit-content;
+    display: inline-block;
+}
+input[type="submit"]{
+    color: yellowgreen;
+    background-color: black;
+    border: 2px solid black;
+    padding: 0.5cm;
+    font-size: 1cm;
+    border-radius: 0px;
+}
+.d{
+    list-style: none;
+    display: inline-block;
+
+}
+ul{
+  
+}
+li{
+    
+    list-style: none;
+    display: inline-block;
+   font-size: 0.7cm;
+    text-align: justify;
+    border-color:red;
+    border: 0.9mm solid black;
+}
+li:hover{
+    color: aqua;
+    background-color: aqua;
+}
